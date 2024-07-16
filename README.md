@@ -2,7 +2,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/Israiloff/lemminx-compiled)](https://github.com/Israiloff/lemminx-compiled/releases/latest)
 
-Lemminx-Compiled is a repository for precompiled Lemminx artifacts (JAR files). Lemminx is an XML language server used to provide XML language support in various editors and IDEs.
+Lemminx-Compiled is a repository for precompiled [lemminx](https://github.com/eclipse/lemminx) artifacts (JAR files). Lemminx is an XML language server used to provide XML language support in various editors and IDEs. For more information and source code exploration please visit [lemminx github repo](https://github.com/eclipse/lemminx).
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Lemminx-Compiled is a repository for precompiled Lemminx artifacts (JAR files). 
 
 ## Introduction
 
-This repository provides precompiled Lemminx JAR files for easy integration into your development environment. By downloading a precompiled JAR, you can avoid the need to build Lemminx from source.
+This repository provides precompiled [lemminx](https://github.com/eclipse/lemminx) JAR files for easy integration into your development environment. By downloading a precompiled JAR, you can avoid the need to build [lemminx](https://github.com/eclipse/lemminx) from source.
 
 ## Releases
 
