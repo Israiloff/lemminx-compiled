@@ -7,6 +7,7 @@ Lemminx-Compiled is a repository for precompiled Lemminx artifacts (JAR files). 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Releases](#releases)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -16,11 +17,23 @@ Lemminx-Compiled is a repository for precompiled Lemminx artifacts (JAR files). 
 
 This repository provides precompiled Lemminx JAR files for easy integration into your development environment. By downloading a precompiled JAR, you can avoid the need to build Lemminx from source.
 
+## Releases
+
+All releases come with a version tag. The latest release is `v0.28.0`. You can find all releases on the [Releases](https://github.com/Israiloff/lemminx-compiled/releases) page.
+
+### Latest Release
+
+- **Version:** v0.28.0
+- **Date:** YYYY-MM-DD
+- **Download:** [lemminx-0.28.0.jar](https://github.com/Israiloff/lemminx-compiled/releases/tag/v0.28.0)
+
+For earlier versions, visit the [Releases](https://github.com/Israiloff/lemminx-compiled/releases) page.
+
 ## Installation
 
 To use the precompiled Lemminx JAR, follow these steps:
 
-1. Download the latest JAR file from the [Releases](https://github.com/yourusername/lemminx-compiled/releases) page.
+1. Download the latest JAR file from the [Releases](https://github.com/Israiloff/lemminx-compiled/releases) page.
 2. Place the JAR file in a directory of your choice.
 
 ## Usage
@@ -34,7 +47,7 @@ To use Lemminx in your development environment, you typically need to configure 
 
     ```json
     {
-        "xml.server.jar": "/path/to/your/lemminx-0.28.0.jar"
+        "xml.server.jar": "/path/to/your/org.eclipse.lemminx-uber.jar"
     }
     ```
 
