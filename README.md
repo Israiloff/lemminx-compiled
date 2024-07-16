@@ -1,6 +1,6 @@
 # Lemminx-Compiled
 
-[![Latest Release](https://img.shields.io/github/v/release/yourusername/lemminx-compiled)](https://github.com/yourusername/lemminx-compiled/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Israiloff/lemminx-compiled)](https://github.com/Israiloff/lemminx-compiled/releases/latest)
 
 Lemminx-Compiled is a repository for precompiled Lemminx artifacts (JAR files). Lemminx is an XML language server used to provide XML language support in various editors and IDEs.
 
